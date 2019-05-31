@@ -34,7 +34,7 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true} -->
-<ol><li><em>calcium fluoride</em></li><li><em>sodium fluoride</em></li><li><em>fluorosilicic acid</em></li><li><em>sodium fluorosilicate</em></li></ol>
+<ol><li>calcium fluoride - natural mineral</li><li>sodium fluoride - Dentist's fluoride</li><li>fluorosilicic acid - municipal water</li><li>sodium fluorosilicate - municipal water</li></ol>
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
@@ -42,7 +42,11 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"regular"} -->
-<p class="has-regular-font-size">When people say "<em>fluoride occurs naturally in ground water!</em>" they are usually talking about calcium fluoride (even if they aren't aware of it). It's almost insoluble in pure distilled water (meaning calcium fluoride doesn't change into anything else in water, but does when combined with acids). Calcium fluoride is the least bioreactive of the compounds so it's the safest for biological life. However, there are some areas of the world where it can be a concern (many parts of Asia struggle with overexposure to fluoride). It's only dangerous when you mix it with a strong acid, like sulfuric acid where it creates hydrofluoric acid. This is important since our stomachs contain hydrochloric acid - a strong acid.</p>
+<p class="has-regular-font-size">Calcium fluoride is what is found naturally on Earth. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When people say "<em>fluoride occurs naturally in ground water!</em>" they are usually talking about calcium fluoride (even if they aren't aware of it). It's almost insoluble in pure distilled water (meaning calcium fluoride doesn't change into anything else in water, but does when combined with acids). Calcium fluoride is the least bioreactive of the compounds so it's the safest for biological life. However, there are some areas of the world where it can be a concern (many parts of Asia struggle with overexposure to fluoride). It's only dangerous when you mix it with a strong acid, like sulfuric acid where it creates hydrofluoric acid. This is important since our stomachs contain hydrochloric acid - a strong acid.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -58,7 +62,11 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"regular"} -->
-<p class="has-regular-font-size">Sodium fluoride is what they add to toothpaste, mouthwash, dental pastes and washes, and also - surprisingly -  filtered baby drinking water. I hope someone will explain that one to me because they have no teeth yet... right? </p>
+<p class="has-regular-font-size">Sodium fluoride is what Dentists use. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It's added to toothpaste, mouthwash, dental pastes and washes, and also - surprisingly -  filtered baby drinking water. I hope someone will explain that one to me because they have no teeth yet... right? </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":115,"align":"center"} -->
@@ -86,7 +94,11 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>These two are kissin' cousins so I cover them together. Hexafluorosilicic acid is the most common way they claim to add fluoride to municipal water supplies across the USA. It is usually added directly in aqueous (water) solution. These compounds are both fluorosilicates - which are very different than fluorides. A big reason for this is that the F (fluorine) and Si (silicon) atoms don't usually dissolve. So, when they enter your body, you aren't getting just fluoride, but fluorosilicate. And remember that silica crystalizes.</p>
+<p>These two are kissin' cousins so I cover them together. These compounds are what they most often add to water.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Hexafluorosilicic acid is the most common way they claim to add fluoride to municipal water supplies across the USA. It is usually added directly in aqueous (water) solution. These compounds are both fluorosilicates - which are very different than fluorides. A big reason for this is that the F (fluorine) and Si (silicon) atoms don't usually dissolve. So, when they enter your body, you aren't getting just fluoride, but fluorosilicate. And remember that silica crystalizes.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
