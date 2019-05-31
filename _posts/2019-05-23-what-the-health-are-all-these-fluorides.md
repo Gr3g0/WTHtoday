@@ -106,7 +106,7 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>"SODIUM FLUOROSILICATE is Toxic by ingestion, inhalation and skin absorption. Used as a rodenticide." </p></blockquote>
+<blockquote class="wp-block-quote"><p>"SODIUM FLUOROSILICATE is Toxic by ingestion, inhalation and skin absorption. Used as a rodenticide." - PubChem </p></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
