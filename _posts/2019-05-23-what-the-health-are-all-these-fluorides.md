@@ -86,7 +86,7 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>These two are kissin' cousins so I cover them together. These compounds are what they most often add to your water.</p>
+<p>These two are kissin' cousins so I cover them together. They're what are most often added to your water.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
