@@ -9,6 +9,10 @@ permalink: >
 published: true
 post_date: 2019-05-23 02:21:28
 ---
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>it's probably not the best idea to be bathing in it, swimming in it, or drinking it.</p></blockquote>
+<!-- /wp:quote -->
+
 <!-- wp:paragraph -->
 <p><strong>Water fluoridation</strong>. Love it or hate it, they started adding fluoride to our public water over 70 years ago: January 25, 1945 in "Beer City", USA - Grand Rapids, Michigan - first in the world! From the beginning there's been lots of debate over this practice and for good reason. However, one thing I often see on social media is that many people, including professional dentists, do not understand what fluoride is so let's start there and clear some things up!</p>
 <!-- /wp:paragraph -->
@@ -22,23 +26,19 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>When people talk about fluoride, we're really talking about elemental fluorine. In its elemental state it is a highly reactive and dangerous light yellow-green gas. In fact, it's the most reactive of all the halogen elements - which means it does exciting things with just about everything. <a rel="noreferrer noopener" aria-label="here's some steel wool bursting into flames on contact with F gas (opens in a new tab)" href="https://youtu.be/V1FsO5zaf6M" target="_blank">Here's some steel wool bursting into flames on contact with fluorine (F) gas</a>. </p>
+<p>When people talk about fluoride, we're really talking about the halogen gas fluorine. In its elemental state it is a highly reactive and dangerous light yellow-green gas. It's the most reactive of all the halogen gases - which means it does exciting things with just about everything. <a rel="noreferrer noopener" aria-label="here's some steel wool bursting into flames on contact with F gas (opens in a new tab)" href="https://youtu.be/V1FsO5zaf6M" target="_blank">Here's some steel wool bursting into flames just because fluorine gas touched it</a>. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>It becomes fluoride once it combines with a metallic element like sodium or calcium which creates fluoride salts (not the kind you eat though!)</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"fontSize":"regular"} -->
-<p class="has-regular-font-size">Fortunately, fluorine gas doesn't really exist as a gas anywhere outside of a lab. So, let's just quickly look at the ones we deal with regularly:</p>
+<p>Fluorine gas becomes fluoride when combined with a metallic element like sodium or calcium. This creates fluoride salts (not the kind you eat though!). There are many different fluoride salts so let's just look at the ones we deal with regularly:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true} -->
 <ol><li>calcium fluoride - natural mineral</li><li>sodium fluoride - Dentist's fluoride</li><li>fluorosilicic acid - municipal water</li><li>sodium fluorosilicate - municipal water</li></ol>
 <!-- /wp:list -->
 
-<!-- wp:heading {"level":3} -->
-<h3><a href="https://pubchem.ncbi.nlm.nih.gov/compound/84512" target="_blank" rel="noreferrer noopener" aria-label="Calcium fluoride (opens in a new tab)">Calcium fluoride</a>: <strong>CaF</strong><sub><strong>2</strong></sub></h3>
+<!-- wp:heading -->
+<h2><a href="https://pubchem.ncbi.nlm.nih.gov/compound/84512" target="_blank" rel="noreferrer noopener" aria-label="Calcium fluoride (opens in a new tab)">Calcium fluoride</a>: <strong>CaF</strong><sub><strong>2</strong></sub></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"regular"} -->
@@ -53,8 +53,8 @@ post_date: 2019-05-23 02:21:28
 <div class="wp-block-image"><figure class="aligncenter is-resized"><img src="http://whatthehealth.today/wp-content/uploads/2019/05/s-l800.jpg" alt="" class="wp-image-107" width="392" height="276"/><figcaption>Mineral calcium fluoride (fluorite) is beautiful!</figcaption></figure></div>
 <!-- /wp:image -->
 
-<!-- wp:heading {"level":3} -->
-<h3><a href="https://pubchem.ncbi.nlm.nih.gov/compound/5235" target="_blank" rel="noreferrer noopener" aria-label="Sodium fluoride (opens in a new tab)">Sodium fluoride</a> <strong>NaF</strong></h3>
+<!-- wp:heading -->
+<h2><a href="https://pubchem.ncbi.nlm.nih.gov/compound/5235" target="_blank" rel="noreferrer noopener" aria-label="Sodium fluoride (opens in a new tab)">Sodium fluoride</a> <strong>NaF</strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"regular"} -->
@@ -77,20 +77,20 @@ post_date: 2019-05-23 02:21:28
 <div class="wp-block-image"><figure class="aligncenter is-resized"><img src="http://whatthehealth.today/wp-content/uploads/2019/05/Villiaumite2_-_Poudrette_quarry_Mont_Saint-Hilaire_Quebec_Canada.jpg" alt="" class="wp-image-183" width="462" height="308"/><figcaption>Not as pretty as fluorite - am I right?</figcaption></figure></div>
 <!-- /wp:image -->
 
-<!-- wp:heading {"level":3} -->
-<h3><a rel="noreferrer noopener" aria-label="Fluorosilicic acid (hexafluorosilicic acid) (opens in a new tab)" href="https://pubchem.ncbi.nlm.nih.gov/compound/21863527" target="_blank">Fluorosilicic acid (hexafluorosilicic acid)</a> <strong>(H</strong><sub><strong>3</strong></sub><strong>O)</strong><sub><strong>2</strong></sub><strong>SiF</strong><sub><strong>6</strong></sub> and its cousin...</h3>
+<!-- wp:heading -->
+<h2><a rel="noreferrer noopener" aria-label="Fluorosilicic acid (hexafluorosilicic acid) (opens in a new tab)" href="https://pubchem.ncbi.nlm.nih.gov/compound/21863527" target="_blank">Fluorosilicic acid (hexafluorosilicic acid)</a> <strong>(H</strong><sub><strong>3</strong></sub><strong>O)</strong><sub><strong>2</strong></sub><strong>SiF</strong><sub><strong>6</strong></sub> and</h2>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"level":3} -->
-<h3><a href="https://pubchem.ncbi.nlm.nih.gov/compound/Sodium_hexafluorosilicate" target="_blank" rel="noreferrer noopener" aria-label="Sodium hexafluorosilicate (opens in a new tab)">Sodium hexafluorosilicate</a> <strong>Na</strong><sub><strong>2</strong></sub><strong>SiF</strong><sub><strong>6</strong></sub></h3>
+<!-- wp:heading -->
+<h2><a href="https://pubchem.ncbi.nlm.nih.gov/compound/Sodium_hexafluorosilicate" target="_blank" rel="noreferrer noopener" aria-label="Sodium hexafluorosilicate (opens in a new tab)">Sodium hexafluorosilicate</a> <strong>Na</strong><sub><strong>2</strong></sub><strong>SiF</strong><sub><strong>6</strong></sub></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>These two are kissin' cousins so I cover them together. These compounds are what they most often add to water.</p>
+<p>These two are kissin' cousins so I cover them together. These compounds are what they most often add to your water.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Hexafluorosilicic acid is the most common way they claim to add fluoride to municipal water supplies across the USA. It is usually added directly in aqueous (water) solution. These compounds are both fluorosilicates - which are very different than fluorides. A big reason for this is that the F (fluorine) and Si (silicon) atoms don't usually dissolve. So, when they enter your body, you aren't getting just fluoride, but fluorosilicate. And remember that silica crystalizes.</p>
+<p>Hexafluorosilicic acid is the most common way fluoride is added to municipal water supplies across the USA. It is usually added directly in aqueous (water) solution. Technically, this isn't really even fluoride. They are fluorosilicates - which are very different. A big reason for this is that the F (fluorine) and Si (silicon) atoms don't usually dissolve. So, when they enter your body, you aren't getting just fluoride, but fluorosilicate. Silica crystalizes. This has important health impacts.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
