@@ -33,8 +33,8 @@ post_date: 2019-05-23 02:21:28
 <p>Fluorine gas becomes fluoride when combined with a metallic element like sodium or calcium. This creates fluoride salts (not the kind you eat though!). There are many different fluoride salts so let's just look at the ones we deal with regularly:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:list {"ordered":true} -->
-<ol><li>calcium fluoride - natural mineral</li><li>sodium fluoride - Dentist's fluoride</li><li>fluorosilicic acid - municipal water</li><li>sodium fluorosilicate - municipal water</li></ol>
+<!-- wp:list -->
+<ul><li>calcium fluoride - natural mineral</li><li>sodium fluoride - Dentist's fluoride</li><li>fluorosilicic acid - municipal water</li><li>sodium fluorosilicate - municipal water</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading -->
