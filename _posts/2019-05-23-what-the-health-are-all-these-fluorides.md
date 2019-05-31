@@ -10,7 +10,7 @@ published: true
 post_date: 2019-05-23 02:21:28
 ---
 <!-- wp:paragraph -->
-<p><strong>Water fluoridation</strong>. Love it or hate it, it's been with us for over 70 years now starting January 25, 1945 in "Beer City", USA - Grand Rapids, Michigan. They were the first in the world to start the program. Now, there's a lot of debate over this topic and for good reason. However, one thing I often see on social media is that many people, including professional dentists, do not understand what fluoride really is so let's start there and clear some things up!</p>
+<p><strong>Water fluoridation</strong>. Love it or hate it, they started adding fluoride to our public water over 70 years ago: January 25, 1945 in "Beer City", USA - Grand Rapids, Michigan - first in the world! From the beginning there's been lots of debate over this practice and for good reason. However, one thing I often see on social media is that many people, including professional dentists, do not understand what fluoride is so let's start there and clear some things up!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":148,"align":"center"} -->
