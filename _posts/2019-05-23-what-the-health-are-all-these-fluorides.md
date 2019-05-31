@@ -22,7 +22,7 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>When people talk about fluoride, we're really talking about the element fluorine. In its elemental state it is a highly reactive and dangerous light yellow-green gas. In fact, it's the most reactive of all the halogen elements - which means it does exciting things with just about everything. <a rel="noreferrer noopener" aria-label="here's some steel wool bursting into flames on contact with F gas (opens in a new tab)" href="https://youtu.be/V1FsO5zaf6M" target="_blank">Here's some steel wool bursting into flames on contact with fluorine (F) gas</a>. </p>
+<p>When people talk about fluoride, we're really talking about elemental fluorine. In its elemental state it is a highly reactive and dangerous light yellow-green gas. In fact, it's the most reactive of all the halogen elements - which means it does exciting things with just about everything. <a rel="noreferrer noopener" aria-label="here's some steel wool bursting into flames on contact with F gas (opens in a new tab)" href="https://youtu.be/V1FsO5zaf6M" target="_blank">Here's some steel wool bursting into flames on contact with fluorine (F) gas</a>. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
