@@ -14,7 +14,7 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":148,"align":"center"} -->
-<div class="wp-block-image"><figure class="aligncenter"><img src="http://whatthehealth.today/wp-content/uploads/2019/05/MI_plate_SINCE-1945.png" alt="" class="wp-image-148" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img src="http://whatthehealth.today/wp-content/uploads/2019/05/MI_plate_SINCE-1945.png" alt="" class="wp-image-148"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:heading {"align":"left"} -->
@@ -50,7 +50,7 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":107,"align":"center","width":392,"height":276} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="http://whatthehealth.today/wp-content/uploads/2019/05/s-l800.jpg" alt="" class="wp-image-107" width="392" height="276" /><figcaption>Mineral calcium fluoride (fluorite) is beautiful!</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="http://whatthehealth.today/wp-content/uploads/2019/05/s-l800.jpg" alt="" class="wp-image-107" width="392" height="276"/><figcaption>Mineral calcium fluoride (fluorite) is beautiful!</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -62,7 +62,7 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":115,"align":"center"} -->
-<div class="wp-block-image"><figure class="aligncenter"><img src="http://whatthehealth.today/wp-content/uploads/2019/05/Fluoride-Baby-Water.jpg" alt="" class="wp-image-115" /><figcaption>Hi cutie!! Just remember to drink your fluoride - it's for your teeth! </figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img src="http://whatthehealth.today/wp-content/uploads/2019/05/Fluoride-Baby-Water.jpg" alt="" class="wp-image-115"/><figcaption>Hi cutie!! Just remember to drink your fluoride - it's for your teeth! </figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -74,7 +74,7 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":183,"align":"center","width":462,"height":308} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="http://whatthehealth.today/wp-content/uploads/2019/05/Villiaumite2_-_Poudrette_quarry_Mont_Saint-Hilaire_Quebec_Canada.jpg" alt="" class="wp-image-183" width="462" height="308" /><figcaption>Not as pretty as fluorite - am I right?</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="http://whatthehealth.today/wp-content/uploads/2019/05/Villiaumite2_-_Poudrette_quarry_Mont_Saint-Hilaire_Quebec_Canada.jpg" alt="" class="wp-image-183" width="462" height="308"/><figcaption>Not as pretty as fluorite - am I right?</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -86,7 +86,7 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>These two are kissin cousins so I cover them together. Hexafluorosilicic acid is the most common way they claim to add fluoride to municipal water supplies across the USA. It is usually added directly in aqueous (water) solution. These compounds are both fluorosilicates - which are very different than fluorides. A big reason for this is that the F (fluorine) and Si (silicon) atoms don't usually dissolve. So, when they enter your body, you aren't getting just fluoride, but fluorosilicate. And remember that silica crystalizes.</p>
+<p>These two are kissin' cousins so I cover them together. Hexafluorosilicic acid is the most common way they claim to add fluoride to municipal water supplies across the USA. It is usually added directly in aqueous (water) solution. These compounds are both fluorosilicates - which are very different than fluorides. A big reason for this is that the F (fluorine) and Si (silicon) atoms don't usually dissolve. So, when they enter your body, you aren't getting just fluoride, but fluorosilicate. And remember that silica crystalizes.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -114,7 +114,7 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>There you have it! A very brief introduction to the fluorides we interact with regularly. I wanted to make this short and sweet so we can be on the same page. Water fluoridation is a massive topic, and I'll cover more articles on this in the future. If there is anything in particular you want to know about this, please let me know! But, I'll likely do a series on fluoride covering how to filter it from water to some health impacts that you should know. Stay tuned and I'll wrote more soon.</p>
+<p>There you have it! A very brief introduction to the fluorides we interact with regularly. I wanted to make this short and sweet so we can be on the same page. Water fluoridation is a massive topic, and I'll cover more articles on this in the future. If there is anything in particular you want to know about this, please let me know! But, I'll likely do a series on fluoride covering how to filter it from water to some health impacts that you should know. Stay tuned and I'll write more soon.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
