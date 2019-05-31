@@ -126,5 +126,5 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p></p>
+<p>If you want more scientific detail, check out this excellent article: <a rel="noreferrer noopener" aria-label="The Chemistry of Water Fluoridation (opens in a new tab)" href="https://fluorideinformationaustralia.files.wordpress.com/2013/01/the-chemistry-of-water-fluoridation.pdf" target="_blank">The Chemistry of Water Fluoridation</a></p>
 <!-- /wp:paragraph -->
