@@ -105,8 +105,8 @@ post_date: 2019-05-23 02:21:28
 <p>These compounds are highly toxic and dangerous chemicals. From <a rel="noreferrer noopener" aria-label="PubChem (opens in a new tab)" href="https://pubchem.ncbi.nlm.nih.gov/compound/Sodium_hexafluorosilicate" target="_blank">PubChem</a>:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>"SODIUM FLUOROSILICATE is Toxic by ingestion, inhalation and skin absorption. Used as a rodenticide." - PubChem </p></blockquote>
+<!-- wp:quote {"className":"wp-pull-quote"} -->
+<blockquote class="wp-pull-quote"><p>"SODIUM FLUOROSILICATE is Toxic by ingestion, inhalation and skin absorption. Used as a rodenticide." - PubChem </p></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
