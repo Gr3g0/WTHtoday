@@ -10,7 +10,7 @@ published: true
 post_date: 2019-05-23 02:21:28
 ---
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>it's probably not the best idea to be bathing in it, swimming in it, or drinking it.</p></blockquote>
+<blockquote class="wp-block-quote"><p>"It's probably not the best idea to be bathing in it, swimming in it, or drinking it."</p></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
