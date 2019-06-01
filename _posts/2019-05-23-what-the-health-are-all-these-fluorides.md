@@ -118,7 +118,7 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>There you have it! A very brief introduction to the fluorides we interact with regularly. I wanted to make this short and sweet so we can be on the same page. Water fluoridation is a massive topic, and I'll cover more articles on this in the future. If there is anything in particular you want to know about this, please let me know! But, I'll likely do a series on fluoride covering how to filter it from water to some health impacts that you should know. Stay tuned and I'll write more soon.</p>
+<p>There you have it! A brief intro to the fluorides we interact with regularly. Water fluoridation is a massive topic, and I'll cover more in future articles. Stay tuned and I'll write more soon.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
