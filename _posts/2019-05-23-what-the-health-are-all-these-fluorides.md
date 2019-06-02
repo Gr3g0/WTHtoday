@@ -42,11 +42,15 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"regular"} -->
-<p class="has-regular-font-size">Calcium fluoride is what is found naturally on Earth. When people say "<em>fluoride occurs naturally in ground water!</em>" they are usually talking about calcium fluoride (even if they aren't aware of it). It's almost insoluble in pure distilled water (meaning calcium fluoride doesn't change into anything else in water, but does when combined with acids). Calcium fluoride is the least bioreactive of the compounds so it's the safest for biological life. However, there are some areas of the world where it can be a concern (many parts of Asia struggle with overexposure to fluoride). It's only dangerous when you mix it with a strong acid, like sulfuric acid where it creates hydrofluoric acid. This is important since our stomachs contain hydrochloric acid - a strong acid.</p>
+<p class="has-regular-font-size">Calcium fluoride is what is found naturally on Earth. When people say "<em>fluoride occurs naturally in ground water!</em>" they are usually talking about calcium fluoride (even if they aren't aware of it). </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Personally, I think calcium fluoride is beautiful in its mineral form. Someone really needs to make lamps out of these - it would look awesome near our Himalayan sea salt lamp! Don't you think??  </p>
+<p>It's almost insoluble in pure distilled water (it won't dissolve). Calcium fluoride is the least bioreactive of the compounds so it's the safest for living organisms. However, there are some areas of the world where it can be a concern (many parts of Asia struggle with overexposure to fluoride). It's dangerous when you mix it with a strong acid, like sulfuric acid where it creates hydrofluoric acid. This is important since our stomachs contain hydrochloric acid - a strong acid.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I think calcium fluoride is beautiful in its mineral form. Someone should sell fluorite lamps - it would look awesome with a Himalayan sea salt lamp. Don't you think??  </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":107,"align":"center","width":392,"height":276} -->
@@ -58,7 +62,7 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"regular"} -->
-<p class="has-regular-font-size">Sodium fluoride is what Dentists use. It's added to toothpaste, mouthwash, dental pastes and washes, and also - surprisingly -  filtered baby drinking water. I hope someone will explain that one to me because they have no teeth yet... right? </p>
+<p class="has-regular-font-size">Sodium fluoride is what Dentists use. It's added to toothpaste, mouthwash, dental pastes and washes, and also - surprisingly -  filtered water for babies. I hope someone will explain that one to me because they have no teeth yet... right? </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":115,"align":"center"} -->
@@ -66,7 +70,11 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Sodium fluoride is quite toxic and highly soluble in water so it breaks into ionic form. That means the F+ part of the compound will break away which can later combine with other compounds or elements. Unfortunately, it has numerous well known negative impacts on our biology (it's really a wonder why dentists are still using it, but that is its own topic for a future article). You cannot handle it with your hands - you'll need proper safety equipment and ventilation: overexposure is fatal. Calcium fluoride and sodium fluoride are not even remotely the same compounds.</p>
+<p>Sodium fluoride is quite toxic and highly soluble in water so it breaks into ionic form. That means the F+ part of the compound will break away which can later combine with other compounds or elements. Unfortunately, it has numerous known negative impacts on our biology (it's really a wonder why dentists are still using it). You cannot handle it with your hands - you'll need proper safety equipment and ventilation: overexposure can be fatal. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As you can see - calcium fluoride and sodium fluoride are not even remotely the same compounds.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -90,15 +98,15 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Hexafluorosilicic acid is the most common way fluoride is added to municipal water supplies across the USA. It is usually added directly in aqueous (water) solution. Technically, this isn't really even fluoride. They are fluorosilicates - which are very different. A big reason for this is that the F (fluorine) and Si (silicon) atoms don't usually dissolve. So, when they enter your body, you aren't getting just fluoride, but fluorosilicate. Silica crystalizes. This has important health impacts.</p>
+<p>Hexafluorosilicic acid is the most common way fluoride is added to municipal water supplies across the USA. It is usually added directly in aqueous (water) solution. Technically, this isn't really even fluoride. They are fluorosilicates - which are very different. A big reason for this is that the F (fluorine) and Si (silicon) in fluorosilicate doesn't easily dissolve. When it enters your body, you aren't getting just fluoride, but fluorosilicate. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Because fluorosilicic acid leeches copper out of pipes, they combine it with sodium hydroxide (lye) which produces the salt called sodium hexafluorosilicate. This protects the pipes, but not our bodies. At a normal water pH of 7, about 97% of the fluorine is absorbed by the body. BUT, if you drop the pH to 6 - just slightly more acidic - suddenly only 27% F is absorbed and you are ingesting more complex compounds of fluorosilicates. Then, when combined with a strong acid - like the hydrochloric acid of your stomach - hardly any F+ ions exist at all which means even if it does help your teeth, very little is bioavailable.</p>
+<p>Because fluorosilicic acid leeches copper out of pipes, they combine it with sodium hydroxide (lye) which produces the salt called sodium hexafluorosilicate. This protects the pipes, but not necessarily our bodies. At a normal water pH of 7, about 97% of the fluorine is absorbed by the body. BUT, if you drop the pH to 6 - just slightly more acidic - suddenly only 27% F is absorbed and you are ingesting more complex compounds of fluorosilicates. Then, when combined with a strong acid - like the hydrochloric acid of your stomach - hardly any F+ ions exist at all which means even if it does help your teeth, very little is bioavailable.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>These chemicals are only commonly found because both the fertilizer and aluminum industries create them as significant byproducts of their chemical production processes (think Alcoa, Bayer, DuPont, etc). Take note that they combine easily with aluminum. </p>
+<p>These chemicals are only commonly used because both the fertilizer and aluminum industries create them as significant byproducts of their chemical production processes (think Alcoa, Bayer, DuPont, etc). Take note that they combine easily with aluminum. This is important because aluminum is found in numerous products from deodorant to vaccines.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -114,7 +122,7 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You should <a rel="noreferrer noopener" aria-label="contact your local water treatment (opens in a new tab)" href="https://www.google.com/search?q=water+treatment+facility+near+me&amp;oq=water+treatment+facility+near+me" target="_blank">contact your local water treatment facility</a> directly to learn which one they use.</p>
+<p>You should <a rel="noreferrer noopener" aria-label="contact your local water treatment (opens in a new tab)" href="https://www.google.com/search?q=water+treatment+facility+near+me&amp;oq=water+treatment+facility+near+me" target="_blank">contact your local water treatment facility</a> directly to learn which one they add to your water.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
