@@ -102,7 +102,11 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Because fluorosilicic acid leeches copper out of pipes, they combine it with sodium hydroxide (lye) which produces the salt called sodium hexafluorosilicate. This protects the pipes, but not necessarily our bodies. At a normal water pH of 7, about 97% of the fluorine is absorbed by the body. BUT, if you drop the pH to 6 - just slightly more acidic - suddenly only 27% F is absorbed and you are ingesting more complex compounds of fluorosilicates. Then, when combined with a strong acid - like the hydrochloric acid of your stomach - hardly any F+ ions exist at all which means even if it does help your teeth, very little is bioavailable.</p>
+<p>Because fluorosilicic acid leeches copper out of pipes, they combine it with sodium hydroxide (lye) which produces the salt called sodium hexafluorosilicate. This protects the pipes, but not necessarily our bodies. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>At a normal water pH of 7, about 97% of the fluorine is absorbed by the body. BUT, if you drop the pH to 6 - just slightly more acidic - suddenly only 27% F is absorbed and you are ingesting more complex compounds of fluorosilicates. Then, when combined with a strong acid - like the hydrochloric acid of your stomach - hardly any F+ ions exist at all which means even if it does help your teeth, very little is bioavailable.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
