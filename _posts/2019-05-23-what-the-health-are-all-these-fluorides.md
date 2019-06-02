@@ -34,7 +34,7 @@ post_date: 2019-05-23 02:21:28
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>calcium fluoride - natural mineral</li><li>sodium fluoride - Dentist's fluoride</li><li>fluorosilicic acid - municipal water</li><li>sodium fluorosilicate - municipal water</li></ul>
+<ul><li>calcium fluoride (natural)</li><li>sodium fluoride - (Dentist)</li><li>fluorosilicic acid - (water)</li><li>sodium fluorosilicate (water)</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading -->
