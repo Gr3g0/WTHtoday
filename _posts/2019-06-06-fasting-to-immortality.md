@@ -132,7 +132,7 @@ post_date: 2019-06-06 02:59:17
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>† Not loathing - an expression of self love! </p>
+<p>† Bet you thought I forgot about that reference. Nope - it seems it's not loathing but an expression of highest self love. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
