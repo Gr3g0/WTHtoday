@@ -16,7 +16,7 @@ post_date: 2019-06-06 02:59:17
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p><strong>Fasting</strong>. For most people, the longest fast they ever have is the one between going to sleep and waking up the next day. And some don't even make that far... including this guy right here. However, evidence reveals we need to take a serious look at this ancient practice of self loathing* and obligatory penitence for last night's batch of chocolate chip cookies. </p>
+<p><strong>Fasting</strong>. For most people, the longest fast they ever have is the one between going to sleep and waking up the next day. And some don't even make that far... including this guy right here. However, evidence reveals we need to take a serious look at this ancient practice of self loathing† and obligatory penitence for last night's batch of chocolate chip cookies. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:verse -->
@@ -128,7 +128,11 @@ post_date: 2019-06-06 02:59:17
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Until next time!<br>Gregory Pravda</p>
+<p>Until next time,<br>GP</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>† Not loathing - an expression of self love! </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
