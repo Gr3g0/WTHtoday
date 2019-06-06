@@ -2,7 +2,7 @@
 ID: 100
 post_title: What the Health are all these Fluorides?
 author: Jennifer Gest
-post_excerpt: "Many people aren't aware that there are numerous different forms of fluoride and they are each very different."
+post_excerpt: "Did you know there are different kinds of fluorides? Some are toxic, others are benign. In just 4 mins you'll know more than your Dentist."
 layout: post
 permalink: >
   http://whatthehealth.today/2019/05/23/what-the-health-are-all-these-fluorides/
