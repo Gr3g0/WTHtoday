@@ -52,7 +52,7 @@ post_date: 2019-06-06 02:59:17
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>In short, if free radicals are roaming terrorists in your blood stream heat seeking any electrons they can find, antioxidants are the heroes who take the hit for the team and pair up with free radicals putting them into a blissful state of peace. With hugs and kisses. XOXOXO!!</p>
+<p>In short, if free radicals are roaming terrorists in your blood stream heat seeking any electrons they can find, antioxidants are the heroes who take the hit for the team and pair up with free radicals putting them into a blissful state of peace. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -121,10 +121,6 @@ post_date: 2019-06-06 02:59:17
 
 <!-- wp:paragraph -->
 <p>As for immortality? I guess we'll have to touch base with Prahlad Jani in another 70 years and we'll have a better answer.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>For me? I'm definitely not going to order that pizza right now. Out of respect for this article. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
