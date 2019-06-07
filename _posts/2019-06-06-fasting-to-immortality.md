@@ -48,7 +48,7 @@ post_date: 2019-06-06 02:59:17
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
-<p>The process of converting oxygen and glucose sugars/fatty acids to energy is slightly similar to the explosion in a gas powered engine: each reaction costs the cell. So, in layman's terms, every time a cell receives energy from a mitochondrion, there's one less explosion that mitochondrion can produce. This process also produces ionized free radicals, some of which are helpful (needed to help white blood cells defeat disease for example), others are harmful (causing damage to otherwise healthy cells) and this is the greater concern. </p>
+<p>The process of combining oxygen and glucose sugars and/or fatty acids to energy is slightly similar to the explosion in a gas powered engine: each reaction costs the cell. So, in layman's terms, every time a cell receives energy from a mitochondrion, there's one less explosion that mitochondrion can produce. This process also produces ionized free radicals, some of which are helpful (needed to help white blood cells defeat disease for example), others are harmful (causing damage to otherwise healthy cells) and this is the greater concern. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -91,9 +91,9 @@ post_date: 2019-06-06 02:59:17
 <p>Yes - exactly like that. </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Back to immortality.</p>
-<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2>Back to immortality.</h2>
+<!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>Researchers from the University of Southern California published findings from their research of the cellular impact of fasting, and folks - it's pretty surprising.</p>
