@@ -59,12 +59,12 @@ post_date: 2019-06-06 02:59:17
 <p>What each of these power houses are doing is totally insane. Your body is constantly combining nuclear physics, chemistry and electricity by using different pH induced chemical electrical potential.  </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>In short, if free radicals are roaming terrorists in your blood stream heat seeking any electrons they can find, antioxidants are the heroes who take the hit for the team and pair up with free radicals putting them into a blissful state of peace. </p>
-<!-- /wp:paragraph -->
+<!-- wp:image {"id":288,"align":"center"} -->
+<div class="wp-block-image"><figure class="aligncenter"><img src="http://whatthehealth.today/wp-content/uploads/2019/06/GeekinOut.gif" alt="" class="wp-image-288"/></figure></div>
+<!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p></p>
+<p>In short, if free radicals are roaming terrorists in your blood stream heat seeking any electrons they can find, antioxidants are the heroes who take the hit for the team and pair up with free radicals putting them into a blissful state of peace. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
