@@ -52,19 +52,19 @@ post_date: 2019-06-06 02:59:17
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
-<p>The process of combining oxygen and glucose sugars and/or fatty acids to energy is slightly similar to the explosion in a gas powered engine: each reaction costs the cell. So, in layman's terms, every time a cell receives energy from a mitochondrion, there's one less explosion that mitochondrion can produce. This process also produces ionized free radicals, some of which are helpful (needed to help white blood cells defeat disease for example), others are harmful (causing damage to otherwise healthy cells) and this is the greater concern. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p>Mitochondrion are tiny biological atomic engineers. They break atoms down into protons and electrons, harvesting the energy created from this tiny nuclear fission, and then literally transport electrons down their tiny intestine (actually called a respirator chain) until they synthesize ATP. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>What each of these power houses are doing is totally insane. Your body is constantly combining nuclear physics, chemistry and electricity by using different pH induced chemical electrical potential.  </p>
+<p>The process of combining oxygen and glucose sugars and/or fatty acids to energy is slightly similar to the explosion in a gas powered engine: each reaction costs the cell. So, in layman's terms, every time a cell receives energy from a mitochondrion, there's one less explosion that mitochondrion can produce. This process also produces ionized free radicals, some of which are helpful (needed to help white blood cells defeat disease for example), others are harmful (causing damage to otherwise healthy cells) and this is the greater concern. </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":288,"align":"center"} -->
-<div class="wp-block-image"><figure class="aligncenter"><img src="http://whatthehealth.today/wp-content/uploads/2019/06/GeekinOut.gif" alt="" class="wp-image-288"/></figure></div>
+<!-- wp:paragraph -->
+<p>What each of these power houses are doing is totally insane. Your body is constantly combining nuclear physics, chemistry and electricity by using different pH induced chemical electrical potentials! And you didn't even care about any of those classes!!  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":288,"align":"center","width":678,"height":382} -->
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="http://whatthehealth.today/wp-content/uploads/2019/06/GeekinOut.gif" alt="" class="wp-image-288" width="678" height="382"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -123,13 +123,13 @@ post_date: 2019-06-06 02:59:17
 <h2>You ever heard of Breatharians? </h2>
 <!-- /wp:heading -->
 
+<!-- wp:image {"id":291,"align":"right","width":311,"height":210} -->
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="http://whatthehealth.today/wp-content/uploads/2019/06/Prahlad-Jani.jpg" alt="" class="wp-image-291" width="311" height="210"/><figcaption>Hi! I'm Prahlad Jani, but you can call me Mataji. </figcaption></figure></div>
+<!-- /wp:image -->
+
 <!-- wp:paragraph -->
 <p>Breatharianism is interesting.  The claims by one man in particular who says he's not eaten or drank any water for 70 years since he was 8.  When he was blessed by the goddess Amba. I know, I know - but keep reading.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:image {"id":291,"align":"right","width":287,"height":194} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><img src="http://whatthehealth.today/wp-content/uploads/2019/06/Prahlad-Jani.jpg" alt="" class="wp-image-291" width="287" height="194"/><figcaption>Hi! I'm Prahlad Jani, but you can call me Mataji. </figcaption></figure></div>
-<!-- /wp:image -->
 
 <!-- wp:paragraph -->
 <p>Prahlad Jani claims to be able to eat prana from the sun. Of course we could never accept such claims at face value so he was put under strict medical observation for 10 days. During this time, he never ate, drank, nor did he defecate or urinate. No medical determination could be reached - according to science it is an impossible feat, but he did it.  </p>
