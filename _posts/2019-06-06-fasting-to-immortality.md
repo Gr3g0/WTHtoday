@@ -48,11 +48,23 @@ post_date: 2019-06-06 02:59:17
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
-<p>The process of converting oxygen and sugar to energy is slightly similar to the explosion in a gas powered engine: each reaction costs the cell. So, in laymen's terms, every time a cell receives energy from a mitochondrion, there's one less explosion that mitochondrion can produce. This process also produces ionized free radicals, some of which are helpful (needed to help white blood cells defeat disease for example), others are harmful (causing damage to otherwise healthy cells) and this is the greater concern. </p>
+<p>The process of converting oxygen and glucose sugars/fatty acids to energy is slightly similar to the explosion in a gas powered engine: each reaction costs the cell. So, in layman's terms, every time a cell receives energy from a mitochondrion, there's one less explosion that mitochondrion can produce. This process also produces ionized free radicals, some of which are helpful (needed to help white blood cells defeat disease for example), others are harmful (causing damage to otherwise healthy cells) and this is the greater concern. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mitochondrion are tiny biological atomic engineers. They break atoms down into protons and electrons, harvesting the energy created from this tiny nuclear fission, and then literally transport electrons down their tiny intestine (actually called a respirator chain) until they synthesize ATP. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What each of these power houses are doing is totally insane. Your body is constantly combining nuclear physics, chemistry and electricity by using different pH induced chemical electrical potential.  </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>In short, if free radicals are roaming terrorists in your blood stream heat seeking any electrons they can find, antioxidants are the heroes who take the hit for the team and pair up with free radicals putting them into a blissful state of peace. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -136,7 +148,7 @@ post_date: 2019-06-06 02:59:17
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li><a href="https://www.ncbi.nlm.nih.gov/books/NBK26882/" target="_blank" rel="noreferrer noopener" aria-label="How Cells Obtain Energy from Food (opens in a new tab)">How Cells Obtain Energy from Food</a></li><li><a rel="noreferrer noopener" aria-label="Mitochondrion – much more than an energy converter. (opens in a new tab)" href="https://bscb.org/learning-resources/softcell-e-learning/mitochondrion-much-more-than-an-energy-converter/" target="_blank">Mitochondrion – much more than an energy converter.</a></li><li><a rel="noreferrer noopener" aria-label="Basics of Free Radicals and Antioxidants (opens in a new tab)" href="https://www.intechopen.com/books/free-radicals-antioxidants-and-diseases/introductory-chapter-basics-of-free-radicals-and-antioxidants" target="_blank">Basics of Free Radicals and Antioxidants</a></li><li><a rel="noreferrer noopener" aria-label="Fasting triggers stem cell regeneration of damaged, old immune system (opens in a new tab)" href="https://news.usc.edu/63669/fasting-triggers-stem-cell-regeneration-of-damaged-old-immune-system/" target="_blank">Fasting triggers stem cell regeneration of damaged, old immune system</a></li><li><a rel="noreferrer noopener" href="https://www.nia.nih.gov/news/longer-daily-fasting-times-improve-health-and-longevity-mice" target="_blank">Longer daily fasting times improve health and longevity in mice</a> </li><li><a rel="noreferrer noopener" aria-label="Fasting fakir flummoxes physicians (opens in a new tab)" href="http://news.bbc.co.uk/2/hi/south_asia/3236118.stm" target="_blank">Fasting fakir flummoxes physicians</a></li></ul>
+<ul><li><a rel="noreferrer noopener" aria-label="How Cells Obtain Energy from Food (opens in a new tab)" href="https://www.ncbi.nlm.nih.gov/books/NBK26882/" target="_blank">How Cells Obtain Energy from Food</a></li><li><a rel="noreferrer noopener" aria-label="Mitochondrion – much more than an energy converter. (opens in a new tab)" href="https://bscb.org/learning-resources/softcell-e-learning/mitochondrion-much-more-than-an-energy-converter/" target="_blank">Mitochondrion – much more than an energy converter.</a></li><li><a rel="noreferrer noopener" aria-label="Basics of Free Radicals and Antioxidants (opens in a new tab)" href="https://www.intechopen.com/books/free-radicals-antioxidants-and-diseases/introductory-chapter-basics-of-free-radicals-and-antioxidants" target="_blank">Basics of Free Radicals and Antioxidants</a></li><li><a rel="noreferrer noopener" aria-label="Fasting triggers stem cell regeneration of damaged, old immune system (opens in a new tab)" href="https://news.usc.edu/63669/fasting-triggers-stem-cell-regeneration-of-damaged-old-immune-system/" target="_blank">Fasting triggers stem cell regeneration of damaged, old immune system</a></li><li><a rel="noreferrer noopener" href="https://www.nia.nih.gov/news/longer-daily-fasting-times-improve-health-and-longevity-mice" target="_blank">Longer daily fasting times improve health and longevity in mice</a> </li><li><a rel="noreferrer noopener" aria-label="Fasting fakir flummoxes physicians (opens in a new tab)" href="http://news.bbc.co.uk/2/hi/south_asia/3236118.stm" target="_blank">Fasting fakir flummoxes physicians</a></li><li><a href="https://www.ncbi.nlm.nih.gov/books/NBK26894/" target="_blank" rel="noreferrer noopener" aria-label="Molecular Biology of the Cell. 4th edition (opens in a new tab)">Molecular Biology of the Cell. 4th edition</a></li></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
