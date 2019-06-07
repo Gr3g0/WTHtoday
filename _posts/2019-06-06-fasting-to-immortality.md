@@ -83,8 +83,8 @@ post_date: 2019-06-06 02:59:17
 <p>"I'd like a saccharomyces cerevisiae raised gluten chain crust covered with blended solanum lycopersicum, origanum vulgare, and sodium chloride, topped with varied curdled and aged bovine growth serums species, please. Oh... and this order is for delivery. I don't go outside. By the way - do you have any pickled capsicum annuum?"</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":268,"align":"center","width":685,"height":337} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="http://whatthehealth.today/wp-content/uploads/2019/06/cheese-pizza-h.png" alt="" class="wp-image-268" width="685" height="337"/><figcaption>Kinda hard to think about fasting with a cheese pizza in your face, isn't it...</figcaption></figure></div>
+<!-- wp:image {"id":292,"align":"center"} -->
+<div class="wp-block-image"><figure class="aligncenter"><img src="http://whatthehealth.today/wp-content/uploads/2019/06/7a5.jpg" alt="" class="wp-image-292"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -120,8 +120,12 @@ post_date: 2019-06-06 02:59:17
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Breatharianism is interesting.  The claims by one man in particular who says he's not eaten or drank any water for 70 years since he was 8.  When he was blessed by a goddess. I know, I know - but keep reading.</p>
+<p>Breatharianism is interesting.  The claims by one man in particular who says he's not eaten or drank any water for 70 years since he was 8.  When he was blessed by the goddess Amba. I know, I know - but keep reading.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:image {"id":291,"align":"right","width":287,"height":194} -->
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="http://whatthehealth.today/wp-content/uploads/2019/06/Prahlad-Jani.jpg" alt="" class="wp-image-291" width="287" height="194"/><figcaption>Hi! I'm Prahlad Jani, but you can call me Mataji. </figcaption></figure></div>
+<!-- /wp:image -->
 
 <!-- wp:paragraph -->
 <p>Prahlad Jani claims to be able to eat prana from the sun. Of course we could never accept such claims at face value so he was put under strict medical observation for 10 days. During this time, he never ate, drank, nor did he defecate or urinate. No medical determination could be reached - according to science it is an impossible feat, but he did it.  </p>
