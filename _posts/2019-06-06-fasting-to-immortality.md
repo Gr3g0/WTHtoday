@@ -43,8 +43,8 @@ post_date: 2019-06-06 02:59:17
 <p>Your body is made of cells (hopefully this part isn't surprising?). Each cell is powered by ATP (Adenosine triphosphate). Of course... we don't eat ATP so how do cells get it? After food is digested into its most basic components (proteins, fats, sugar) it is then transported through the super highway of our bloodstream where it gets to cells. Each cell contains 10s to 1000s of mitochondria which take glucose (as a primary component), "burn" it in oxygen, and chemically convert it to ATP in a reaction channel that actually looks like a tiny intestine.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:gallery {"ids":[267,272],"align":"center"} -->
-<ul class="wp-block-gallery aligncenter columns-2 is-cropped"><li class="blocks-gallery-item"><figure><img src="http://whatthehealth.today/wp-content/uploads/2019/06/mitochodrion.png" alt="" data-id="267" class="wp-image-267"/><figcaption>Mitochondrion sporting it's tiny intestine wherein it produces ATP.</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="http://whatthehealth.today/wp-content/uploads/2019/06/1-studyshowsmi.jpg" alt="" data-id="272" data-link="http://whatthehealth.today/?attachment_id=272" class="wp-image-272"/></figure></li></ul>
+<!-- wp:gallery {"ids":["267","272"],"align":"center"} -->
+<ul class="wp-block-gallery aligncenter columns-2 is-cropped"><li class="blocks-gallery-item"><figure><img src="http://whatthehealth.today/wp-content/uploads/2019/06/mitochodrion.png" alt="" data-id="267" class="wp-image-267"/></figure></li><li class="blocks-gallery-item"><figure><img src="http://whatthehealth.today/wp-content/uploads/2019/06/1-studyshowsmi.jpg" alt="" data-id="272" data-link="http://whatthehealth.today/?attachment_id=272" class="wp-image-272"/></figure></li></ul>
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
