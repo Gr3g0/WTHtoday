@@ -39,6 +39,10 @@ post_date: 2019-06-06 02:59:17
 <p>It means eating less gives your cells some down time to relax, and also, it means fewer atoms/molecules are being destroyed by free radicals ripping through your body.</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:heading -->
+<h2>How does this even work?</h2>
+<!-- /wp:heading -->
+
 <!-- wp:paragraph -->
 <p>Your body is made of cells (hopefully this part isn't surprising?). Each cell is powered by ATP (Adenosine triphosphate). Of course... we don't eat ATP so how do cells get it? After food is digested into its most basic components (proteins, fats, sugar) it is then transported through the super highway of our bloodstream where it gets to cells. Each cell contains 10s to 1000s of mitochondria which take glucose (as a primary component), "burn" it in oxygen, and chemically convert it to ATP in a reaction channel that actually looks like a tiny intestine.</p>
 <!-- /wp:paragraph -->
